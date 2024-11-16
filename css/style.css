@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: rgb(171, 165, 165);
+    overflow: hidden;
+}
+.saymaLogo{
+    height: 30px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+ul{
+    list-style: none;
+    margin-right:10px;
+    float:right;
+
+}
+li{
+display: inline-block;
+margin-right: 10px;
+}
+
+.coverPhoto {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.aboutMe {
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
