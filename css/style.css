@@ -40,3 +40,27 @@ h2 {
     margin-left: 15%;
     color: gray;
 }
+
+.skill-icon {
+    height: 50px;
+}
+
+.skillDiv {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.skillCatagory {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.halkaColor {
+    color: gray;
+}
