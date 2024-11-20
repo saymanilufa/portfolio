@@ -61,8 +61,25 @@ h2 {
 section {
     margin-top: 20px;
     margin-bottom: 20px;
+    overflow: hidden;
 }
 
 .halkaColor {
     color: gray;
+}
+
+.portfolioMainDev {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.portfolioDev {
+    width: 31%;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.portfolioDev img {
+    width: 100%;
 }
