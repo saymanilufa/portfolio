@@ -6,6 +6,8 @@ body{
 nav{
     background-color: rgb(171, 165, 165);
     overflow: hidden;
+    position: fixed;
+    width: 100%;
 }
 .saymaLogo{
     height: 30px;
@@ -82,4 +84,36 @@ section {
 
 .portfolioDev img {
     width: 100%;
+}
+
+.contactMainDev {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.contactDev {
+    width: 48%;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.contactDev iframe {
+    width: 100%;
+}
+
+.socialLinks {
+    height: 20px;
+    width: 20px;
+}
+
+.contactDev a,
+footer a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 30px 0;
 }
